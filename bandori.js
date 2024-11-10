@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  从网站https://bandoristation.com/返回房间号信息
 // @timestamp    1730302375
-// @license      Apache-2
+// @license      MIT
 // @homepageURL  https://github.com/salix-leaves/sealdice_js
 // ==/UserScript==
 
